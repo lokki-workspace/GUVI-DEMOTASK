@@ -1,0 +1,22 @@
+
+.fa{
+    color: blue;
+}
+
+.box{
+    background-color: rgb(240, 233, 233);
+    height: 640px;
+    padding: 10px;
+}
+
+.boxpart{
+    background-color: white;
+    text-align: center;
+  padding: 40px 20px;
+margin-top:  20px;
+margin-bottom: 10px;
+}
+
+.boxpart p{
+    margin-top: 15px;
+}
